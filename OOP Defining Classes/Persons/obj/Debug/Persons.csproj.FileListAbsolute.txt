@@ -1,0 +1,6 @@
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\Persons\bin\Debug\Persons.exe.config
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\Persons\bin\Debug\Persons.exe
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\Persons\bin\Debug\Persons.pdb
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\Persons\obj\Debug\Persons.exe
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\Persons\obj\Debug\Persons.pdb
