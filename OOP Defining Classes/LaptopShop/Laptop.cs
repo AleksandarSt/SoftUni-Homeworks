@@ -181,23 +181,23 @@ namespace LaptopShop
                     2259.00m
                 );
 
-            Laptop secondLaptop = new Laptop("HP 250 G2", 699.00m);
+            //Laptop secondLaptop = new Laptop("HP 250 G2", 699.00m);
 
-            Laptop thirdLaptop = new Laptop
-                (
-                    "Lenovo W540",
-                    "Lenovo",
-                    "Intel Core i7-4900MQ (2.80GHz)",
-                    8,
-                    "Nvidia Quadro K2100M",
-                    512,
-                    "15.5\" 2880 x 1620 Wide viewing angle & High density display",
-                    4129.00m
-                );
+            //Laptop thirdLaptop = new Laptop
+            //    (
+            //        "Lenovo W540",
+            //        "Lenovo",
+            //        "Intel Core i7-4900MQ (2.80GHz)",
+            //        8,
+            //        "Nvidia Quadro K2100M",
+            //        512,
+            //        "15.5\" 2880 x 1620 Wide viewing angle & High density display",
+            //        4129.00m
+            //    );
 
             Console.WriteLine(firstLaptop);
 
-            Laptop[] someLaptops = new Laptop[] {firstLaptop, secondLaptop, thirdLaptop};
+            //Laptop[] someLaptops = new Laptop[] {firstLaptop, secondLaptop, thirdLaptop};
 
             //foreach (var VARIABLE in someLaptops)
             //{

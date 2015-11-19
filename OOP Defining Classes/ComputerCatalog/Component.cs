@@ -20,7 +20,7 @@ namespace ComputerCatalog
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentException("Name must not be null or empty");
+                    throw new ArgumentException("Component Name must not be null or empty");
                 }
                 this.name = value;
             }
@@ -33,7 +33,7 @@ namespace ComputerCatalog
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentException("Name must not be null or empty");
+                    throw new ArgumentException("Component Details must not be null or empty");
                 }
                 this.details = value;
             }
@@ -69,6 +69,12 @@ namespace ComputerCatalog
         {
  
         }
+
+        #endregion
+
+        #region Methods
+
+
 
         #endregion
     }
