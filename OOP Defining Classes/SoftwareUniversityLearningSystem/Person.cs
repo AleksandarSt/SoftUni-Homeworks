@@ -76,7 +76,11 @@ namespace SoftwareUniversityLearningSystem
 
         #region Methods
 
-
+        public override string ToString()
+        {
+            return string.Format("First name: {0}\nLast name: {1}\nAge: {2}\n",
+                            this.FirstName, this.LastName, this.Age);
+        }
 
         #endregion
     }
