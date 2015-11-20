@@ -10,12 +10,17 @@ namespace SoftwareUniversityLearningSystem
     {
         private string currentCourse;
 
+        #region Constructors
+        
         public CurrentStudent(string firstName, string lastName, int age,int studentNumber, double averageGrade, string currentCourse)
             : base(firstName, lastName, age,studentNumber, averageGrade) 
         {
             this.CurrentCourse = currentCourse;
         }
 
+        #endregion
+
+        #region Properties
 
         public string CurrentCourse 
         {
@@ -31,9 +36,15 @@ namespace SoftwareUniversityLearningSystem
             }
         }
 
+        #endregion
+
+        #region Methods
+
         public override string ToString()
         {
             return base.ToString() + string.Format("Current course : {0}\n", this.CurrentCourse);
         }
+
+        #endregion
     }
 }

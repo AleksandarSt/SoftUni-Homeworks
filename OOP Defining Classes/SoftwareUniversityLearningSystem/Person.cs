@@ -12,6 +12,23 @@ namespace SoftwareUniversityLearningSystem
         private string lastName;
         private int age;
 
+        #region Constructors
+
+        public Person(string firstName, string lastName, int age)
+        {
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Age = age;
+        }
+
+        public Person()
+            : this(null, null, 0)
+        {
+
+        }
+
+        #endregion
+
         #region Properties
 
         public string FirstName
@@ -53,23 +70,6 @@ namespace SoftwareUniversityLearningSystem
 
                 this.age = value;
             }
-        }
-
-        #endregion
-
-        #region Constructors
-
-        public Person(string firstName, string lastName, int age)
-        {
-            this.FirstName = firstName;
-            this.LastName = lastName;
-            this.Age = age;
-        }
-
-        public Person()
-            : this(null, null, 0)
-        {
-            
         }
 
         #endregion
