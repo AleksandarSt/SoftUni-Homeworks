@@ -41,7 +41,7 @@ namespace SoftwareUniversityLearningSystem
 
         #region Methods
 
-        public string Reapply()
+        public void Reapply()
         {
             StringBuilder result = new StringBuilder();
 
@@ -52,7 +52,12 @@ namespace SoftwareUniversityLearningSystem
             result.AppendLine(string.Format("Average grade: {0}", this.AverageGrade));
             result.AppendLine(string.Format("Dropout Reason: {0}", this.DropoutReason));
 
-            return result.ToString();
+            Console.WriteLine(result.ToString()) ;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString()+string.Format("Dropout Reason: {0}\n",this.DropoutReason);
         }
         #endregion
     }

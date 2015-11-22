@@ -3,3 +3,4 @@ D:\Git\SoftUni-Homeworks\OOP Defining Classes\SoftwareUniversityLearningSystem\b
 D:\Git\SoftUni-Homeworks\OOP Defining Classes\SoftwareUniversityLearningSystem\bin\Debug\SoftwareUniversityLearningSystem.pdb
 D:\Git\SoftUni-Homeworks\OOP Defining Classes\SoftwareUniversityLearningSystem\obj\Debug\SoftwareUniversityLearningSystem.exe
 D:\Git\SoftUni-Homeworks\OOP Defining Classes\SoftwareUniversityLearningSystem\obj\Debug\SoftwareUniversityLearningSystem.pdb
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\SoftwareUniversityLearningSystem\obj\Debug\SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache

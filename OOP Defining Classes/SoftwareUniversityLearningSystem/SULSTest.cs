@@ -40,6 +40,9 @@ namespace SoftwareUniversityLearningSystem
                 .ToList()
                 .ForEach(Console.WriteLine);
 
+            //DropoutStudent pesho = new DropoutStudent("Steve","Jobs",30,900023423,5.99,"Too smart");
+            //pesho.Reapply();
+
             //var result = persons.Where(x => x is CurrentStudent).Cast<CurrentStudent>().ToList().OrderBy(x => x.AverageGrade);
 
             //foreach (var currentStudent in result)
