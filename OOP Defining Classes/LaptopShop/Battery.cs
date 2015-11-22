@@ -10,6 +10,22 @@ namespace LaptopShop
         private string batteryType;
         private double batteryLife;
 
+
+        #region Constructors
+        public Battery(string batteryType, double batteryLife)
+        {
+            this.BatteryType = batteryType;
+            this.BatteryLife = batteryLife;
+        }
+
+        public Battery()
+            : this(null, 0)
+        {
+
+        }
+
+        #endregion
+
         #region Properties
         public string BatteryType
         {
@@ -37,16 +53,7 @@ namespace LaptopShop
             }
         }
         #endregion
-        public Battery(string batteryType,double batteryLife)
-        {
-            this.BatteryType = batteryType;
-            this.BatteryLife = batteryLife;
-        }
 
-        public Battery()
-            :this(null,0)
-        {
 
-        }
     }
 }

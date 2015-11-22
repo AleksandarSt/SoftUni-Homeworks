@@ -34,7 +34,19 @@ namespace SoftwareUniversityLearningSystem
                 new OnsiteStudent("Andrei","Penchev",20,90345670,5.70,"Advanced Java",2)
             };
 
-            
+            persons
+                .OfType<CurrentStudent>()
+                .OrderBy(x => x.AverageGrade)
+                .ToList()
+                .ForEach(Console.WriteLine);
+
+            //var result = persons.Where(x => x is CurrentStudent).Cast<CurrentStudent>().ToList().OrderBy(x => x.AverageGrade);
+
+            //foreach (var currentStudent in result)
+            //{
+            //    Console.WriteLine(currentStudent);
+            //}
+
         }
     }
 }

@@ -1,0 +1,5 @@
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\LaptopShop\bin\Debug\LaptopShop.exe.config
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\LaptopShop\bin\Debug\LaptopShop.exe
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\LaptopShop\bin\Debug\LaptopShop.pdb
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\LaptopShop\obj\Debug\LaptopShop.exe
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\LaptopShop\obj\Debug\LaptopShop.pdb

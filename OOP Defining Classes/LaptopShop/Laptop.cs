@@ -20,6 +20,34 @@ namespace LaptopShop
         private Battery battery;
         private decimal price;
 
+        #region Constructors
+        public Laptop(string model, string manifacturer, string processor, int ram, string gpu, int hdd, string screen, Battery battery, decimal price)
+        {
+            this.Model = model;
+            this.Manifacturer = manifacturer;
+            this.Processor = processor;
+            this.Ram = ram;
+            this.Gpu = gpu;
+            this.Hdd = hdd;
+            this.Screen = screen;
+            this.battery = battery;
+            this.Price = price;
+        }
+
+        public Laptop(string model, decimal price)
+            : this(model, null, null, 0, null, 0, null, new Battery(null, 0), price)
+        {
+
+        }
+
+        public Laptop(string model, string manifacturer, string processor, int ram, string gpu, int hdd, string screen, decimal price)
+            : this(model, manifacturer, processor, ram, gpu, hdd, screen, new Battery(null, 0), price)
+        {
+
+        }
+
+        #endregion
+
         #region Properties
 		 
         public string Model
@@ -128,33 +156,7 @@ namespace LaptopShop
 
 	    #endregion
 
-        #region Constructors
-        public Laptop (string model,string manifacturer,string processor, int ram,string gpu, int hdd, string screen, Battery battery, decimal price)
-        {
-            this.Model = model;
-            this.Manifacturer = manifacturer;
-            this.Processor = processor;
-            this.Ram = ram;
-            this.Gpu = gpu;
-            this.Hdd = hdd;
-            this.Screen = screen;
-            this.battery = battery;
-            this.Price = price;
-        }
-
-        public Laptop(string model,decimal price)
-            : this(model, null, null, 0, null, 0, null, new Battery(null, 0), price)
-        {
-
-        }
-
-        public Laptop(string model, string manifacturer, string processor, int ram, string gpu, int hdd, string screen, decimal price)
-            : this(model, manifacturer, processor, ram, gpu, hdd, screen, new Battery(null, 0), price)
-        {
-
-        }
-
-        #endregion
+    
 
         #region Methods
 
@@ -162,8 +164,8 @@ namespace LaptopShop
         {
             return string.Format(
                 "<Model:> {0} \n<Manifacturer:> {1} \n<Processor:> {2} \n<RAM:> {3} GB \n<Graphics card:> {4} \n<HDD:> {5} GB \n<Screen:> {6}" +
-                " \n<Battery:> {7} \n<Battery Life:> {8:0.0} hours \n<Price:> {9:0.00} lv", this.model,this.manifacturer, this.processor,
-                this.ram,this.gpu,this.hdd,this.screen,this.battery.BatteryType,this.battery.BatteryLife,this.price);
+                " \n<Battery:> {7} \n<Battery Life:> {8:0.0} hours \n<Price:> {9:0.00} lv", this.Model,this.Manifacturer, this.Processor,
+                this.Ram,this.Gpu,this.Hdd,this.Screen,this.battery.BatteryType,this.battery.BatteryLife,this.Price);
         }
 
         private static void Main()

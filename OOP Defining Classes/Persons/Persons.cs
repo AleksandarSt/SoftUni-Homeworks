@@ -12,6 +12,26 @@ namespace Persons
         private int age;
         private string email;
 
+        #region Constructors
+
+        public Persons(string name, int age, string email)
+        {
+            this.Name = name;
+            this.Age = age;
+            this.Email = email;
+        }
+
+        public Persons(string name, int age)
+            : this(name, age, null)
+        {
+            this.Name = name;
+            this.Age = age;
+        }
+
+        #endregion
+
+        #region Properties
+
         public string Name
         {
             get { return this.name; }
@@ -53,19 +73,9 @@ namespace Persons
             }
         }
 
-        public Persons(string name, int age, string email)
-        {
-            this.Name = name;
-            this.Age = age;
-            this.Email = email;
-        }
+        #endregion
 
-        public Persons(string name, int age)
-            : this(name, age, null)
-        {
-            this.Name = name;
-            this.Age = age;
-        }
+        #region Methods
 
         private bool IsValidEmail(string email)
         {
@@ -83,8 +93,10 @@ namespace Persons
 
         public override string ToString()
         {
-            return string.Format("Person's name: {0} \nAge: {1} \nemail: {2}", this.name, this.age, this.email);
+            return string.Format("Person's name: {0} \nAge: {1} \nemail: {2}", this.Name, this.Age, this.Email);
         }
+
+        #endregion
 
         static void Main()
         {

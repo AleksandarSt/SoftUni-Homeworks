@@ -11,6 +11,23 @@ namespace ComputerCatalog
         private string details;
         private decimal price;
 
+        #region Constructors
+
+        public Component(string name, string details, decimal price)
+        {
+            this.Name = name;
+            this.Details = details;
+            this.Price = price;
+        }
+
+        public Component(string name, decimal price)
+            : this(name, null, 0)
+        {
+
+        }
+
+        #endregion
+
         #region Properties
 
         public string Name
@@ -55,22 +72,7 @@ namespace ComputerCatalog
 
         #endregion
 
-        #region Constructors
-
-        public Component(string name, string details, decimal price)
-        {
-            this.Name = name;
-            this.Details = details;
-            this.Price = price;
-        }
-
-        public Component(string name, decimal price)
-            :this(name,null,0)
-        {
- 
-        }
-
-        #endregion
+     
 
         #region Methods
 

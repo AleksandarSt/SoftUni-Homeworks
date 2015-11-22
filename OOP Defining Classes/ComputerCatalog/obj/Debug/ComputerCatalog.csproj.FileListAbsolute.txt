@@ -1,0 +1,5 @@
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\ComputerCatalog\bin\Debug\ComputerCatalog.exe.config
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\ComputerCatalog\bin\Debug\ComputerCatalog.exe
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\ComputerCatalog\bin\Debug\ComputerCatalog.pdb
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\ComputerCatalog\obj\Debug\ComputerCatalog.exe
+D:\Git\SoftUni-Homeworks\OOP Defining Classes\ComputerCatalog\obj\Debug\ComputerCatalog.pdb

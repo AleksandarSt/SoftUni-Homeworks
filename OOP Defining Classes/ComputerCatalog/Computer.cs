@@ -14,6 +14,16 @@ namespace ComputerCatalog
         private List<Component> components;
         private decimal price;
 
+        #region Constructors
+
+        public Computer(string name, List<Component> components)
+        {
+            this.Name = name;
+            this.Components = components;
+        }
+
+        #endregion
+
         #region Properties
 
         public string Name 
@@ -55,15 +65,6 @@ namespace ComputerCatalog
 
         #endregion
 
-        #region Constructors
-
-        public Computer(string name, List<Component> components)
-        {
-            this.Name = name;
-            this.Components = components;
-        }
-
-        #endregion
 
         #region Methods
         public override string ToString()
@@ -76,6 +77,7 @@ namespace ComputerCatalog
                 result.AppendLine(string.Format("{0}{2} {1:c2}", component.Name, component.Price,
                     string.IsNullOrWhiteSpace(component.Details) ? ":" : ":" + " " + component.Details+" >>>"));
             }
+
             result.AppendLine(string.Format("Total price: {0:c2}", this.Price));
             return result.ToString();
         }
