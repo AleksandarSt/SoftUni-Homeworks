@@ -21,13 +21,12 @@ namespace Human_Student_Worker
             get { return this.facultyNumber; }
             set 
             {
-                if (facultyNumber.Length<5||facultyNumber.Length>10||string.IsNullOrEmpty(value))
+                if (value.Length<5||value.Length>10||string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentOutOfRangeException("Faculty number cannot be null or " +
-                    "empty and must be between 5 and 10 characters invlusive");
+                    throw new ArgumentOutOfRangeException("Faculty number cannot be null or empty and must be between 5 and 10 characters invlusive");
                 }
 
-                this.facultyNumber = value;
+                this.facultyNumber=value;
             }
         }
     }
