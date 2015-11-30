@@ -20,12 +20,12 @@ namespace Shapes.Classes
 
         public double Height { get; set; }
 
-        public double CalculateArea()
+        public virtual double CalculateArea()
         {
             throw new System.NotImplementedException();
         }
 
-        public double CalculatePerimeter()
+        public virtual double CalculatePerimeter()
         {
             throw new System.NotImplementedException();
         }

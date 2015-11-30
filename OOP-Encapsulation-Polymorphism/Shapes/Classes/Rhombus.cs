@@ -12,5 +12,19 @@ namespace Shapes.Classes
             :base(width,height)
         {
         }
+
+        public override double CalculatePerimeter()
+        {
+            double perimeter = 4 * this.Width;
+
+            return perimeter;
+        }
+
+        public override double CalculateArea()
+        {
+            double area = this.Width * this.Height;
+
+            return area;
+        }
     }
 }
