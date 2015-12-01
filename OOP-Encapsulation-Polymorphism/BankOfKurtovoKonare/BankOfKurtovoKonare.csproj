@@ -42,6 +42,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankOfKurtovoKonare.cs" />
+    <Compile Include="Classes\Account.cs" />
+    <Compile Include="Classes\CompanyCustomer.cs" />
+    <Compile Include="Classes\Customer.cs" />
+    <Compile Include="Classes\DepositAccount.cs" />
+    <Compile Include="Classes\IndividualCustomer.cs" />
+    <Compile Include="Classes\LoanAccount.cs" />
+    <Compile Include="Classes\MortgageAccount.cs" />
+    <Compile Include="Interfaces\IDeposit.cs" />
+    <Compile Include="Interfaces\IRate.cs" />
+    <Compile Include="Interfaces\IWithdraw.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
