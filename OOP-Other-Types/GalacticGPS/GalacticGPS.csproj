@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="GalacticGps.cs" />
     <Compile Include="Location.cs" />
+    <Compile Include="Planet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
