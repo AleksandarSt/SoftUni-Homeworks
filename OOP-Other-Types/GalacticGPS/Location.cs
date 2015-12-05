@@ -8,8 +8,10 @@ namespace GalacticGPS
 {
     public struct Location
     {
-        const double maxLatitude = 90;
-        const double maxLongtitude = 180;
+        private const double minLatitude = -90;
+        private const double maxLatitude = 90;
+        private const double minLongitude = -180;
+        private const double maxLongitude = 180;
 
         private double latitude;
         private double longitude;
@@ -28,7 +30,7 @@ namespace GalacticGPS
             get { return this.latitude; }
             set
             {
-                if (value<0 ||value>maxLatitude)
+                if (value<minLatitude ||value>maxLatitude)
                 {
                     throw new ArgumentOutOfRangeException("Latitude must be in range 0 to 90");
                 }
@@ -41,7 +43,7 @@ namespace GalacticGPS
             get { return this.longitude; }
             set
             {
-                if (value<0 ||value>maxLongtitude)
+                if (value<minLongitude ||value>maxLongitude)
                 {
                     throw new ArgumentOutOfRangeException("Longtitude must be in range 0 to 180");
                 }
@@ -50,7 +52,14 @@ namespace GalacticGPS
             }
         }
 
-        public Planet Planet { get; set; }
+        public Planet Planet 
+        {
+            get { return this.planet; }
+            set 
+            {
+                this.planet = value;
+            } 
+        }
 
         public override string ToString()
         {
