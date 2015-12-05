@@ -1,0 +1,6 @@
+D:\Git\SoftUni-Homeworks\OOP-Other-Types\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+D:\Git\SoftUni-Homeworks\OOP-Other-Types\GalacticGPS\bin\Debug\GalacticGPS.exe
+D:\Git\SoftUni-Homeworks\OOP-Other-Types\GalacticGPS\bin\Debug\GalacticGPS.pdb
+D:\Git\SoftUni-Homeworks\OOP-Other-Types\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\OOP-Other-Types\GalacticGPS\obj\Debug\GalacticGPS.exe
+D:\Git\SoftUni-Homeworks\OOP-Other-Types\GalacticGPS\obj\Debug\GalacticGPS.pdb
