@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticGPS", "GalacticGPS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator", "FractionCalculator\FractionCalculator.csproj", "{63A0BFFF-5BFA-4A00-8008-A46214C9125D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{CC99D8EE-5A89-45FF-A62F-AC2705E08CC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{63A0BFFF-5BFA-4A00-8008-A46214C9125D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A0BFFF-5BFA-4A00-8008-A46214C9125D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A0BFFF-5BFA-4A00-8008-A46214C9125D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC99D8EE-5A89-45FF-A62F-AC2705E08CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC99D8EE-5A89-45FF-A62F-AC2705E08CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC99D8EE-5A89-45FF-A62F-AC2705E08CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC99D8EE-5A89-45FF-A62F-AC2705E08CC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
