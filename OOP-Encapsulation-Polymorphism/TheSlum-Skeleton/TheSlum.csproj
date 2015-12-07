@@ -48,11 +48,17 @@
     <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Interfaces\ITimeoutable.cs" />
     <Compile Include="Item.cs" />
+    <Compile Include="Models\Characters\Healer.cs" />
+    <Compile Include="Models\Characters\Mage.cs" />
+    <Compile Include="Models\Characters\Warrior.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Team.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\Items\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
