@@ -15,7 +15,7 @@ namespace TheSlum.Models.Characters
         private const int HealerHealingPoints = 60;
         private const int HealerRange = 6;
 
-        protected Healer(string id, int x, int y, int healthPoints, int defensePoints, Team team, int range)
+        public Healer(string id, int x, int y,Team team)
             : base(id, x, y, HealerHealthPoints, HealerDefensePoints, team, HealerRange)
         {
             this.HealingPoints = HealerHealingPoints;

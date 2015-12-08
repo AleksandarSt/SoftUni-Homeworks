@@ -15,7 +15,7 @@ namespace TheSlum.Models.Characters
         private const int MageAttackPoints = 300;
         private const int MageRange = 5;
 
-        protected Mage(string id, int x, int y, int healthPoints, int defensePoints, Team team, int range)
+        public Mage(string id, int x, int y,  Team team)
             : base(id,x,y,MageHealthPoints,MageDefensePoints,team,MageRange)
         {
             this.AttackPoints = MageAttackPoints;

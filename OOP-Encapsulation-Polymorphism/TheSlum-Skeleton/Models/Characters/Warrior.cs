@@ -16,7 +16,7 @@ namespace TheSlum.Models.Characters
         private const int WariorAttackPoints = 150;
         private const int WariorRange = 2;
 
-        protected Warrior(string id, int x, int y, int healthPoints, int defensePoints, Team team, int range)
+        public Warrior(string id, int x, int y,  Team team)
             : base(id,x,y,WariorHealthPoints,WariorDefensePoints,team,WariorRange)
         {
             this.AttackPoints = WariorAttackPoints;
@@ -26,7 +26,7 @@ namespace TheSlum.Models.Characters
 
         public override Character GetTarget(IEnumerable<Character> targetsList)
         {
-            return targetsList.Where(x => x.IsAlive).First(x => x.Team != this.Team);
+            return targetsList.Where(x => x.IsAlive).FirstOrDefault(x => x.Team != this.Team);
         }
 
         protected override void ApplyItemEffects(Item item)
