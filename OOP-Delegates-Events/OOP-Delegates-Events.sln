@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalculator", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousTimer", "AsynchronousTimer\AsynchronousTimer.csproj", "{8BF353AB-3E80-4B4A-8BC3-B6D12F8B04D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentClass", "StudentClass\StudentClass.csproj", "{B8271910-3AD0-4857-AE0D-738EE1E07D55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8BF353AB-3E80-4B4A-8BC3-B6D12F8B04D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BF353AB-3E80-4B4A-8BC3-B6D12F8B04D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BF353AB-3E80-4B4A-8BC3-B6D12F8B04D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8271910-3AD0-4857-AE0D-738EE1E07D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8271910-3AD0-4857-AE0D-738EE1E07D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8271910-3AD0-4857-AE0D-738EE1E07D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8271910-3AD0-4857-AE0D-738EE1E07D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
