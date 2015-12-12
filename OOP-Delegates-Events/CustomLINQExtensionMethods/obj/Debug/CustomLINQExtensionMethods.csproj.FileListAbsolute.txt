@@ -1,0 +1,6 @@
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe.config
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.pdb
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.exe
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.pdb
