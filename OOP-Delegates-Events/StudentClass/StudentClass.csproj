@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainProgram.cs" />
+    <Compile Include="PropertyChangedEventArgs.cs" />
+    <Compile Include="PropertyChangedEventHandler.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

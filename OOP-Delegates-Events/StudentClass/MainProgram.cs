@@ -8,13 +8,18 @@ namespace StudentClass
 {
     class MainProgram
     {
-        Student student = new Student("Peter", 22);
-        student.PropertyChanged += (sender, eventArgs) =>
+
+        static void Main()
         {
-            Console.WriteLine("Property changed: {0} (from {1} to {2})", 
-                eventArgs.PropertyName, eventArgs.OldValue, eventArgs.NewValue);
-        };
-        student.Name = "Maria";
-        student.Age = 19;
+            Student student = new Student("Peter", 22);
+            student.PropertyChanged += (sender, eventArgs) =>
+            {
+                Console.WriteLine("Property changed: {0} (from {1} to {2})",
+                    eventArgs.PropertyName, eventArgs.OldValue, eventArgs.NewValue);
+            };
+            student.Name = "Maria";
+            student.Age = 19;
+            student.Name = "Chiko";
+        }
     }
 }
