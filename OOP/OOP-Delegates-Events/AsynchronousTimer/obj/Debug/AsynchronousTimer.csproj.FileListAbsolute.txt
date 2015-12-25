@@ -1,0 +1,1 @@
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\AsynchronousTimer\bin\Debug\AsynchronousTimer.exe.config

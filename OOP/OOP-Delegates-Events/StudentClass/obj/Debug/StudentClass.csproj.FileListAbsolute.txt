@@ -1,0 +1,6 @@
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\StudentClass\bin\Debug\StudentClass.exe.config
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\StudentClass\bin\Debug\StudentClass.exe
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\StudentClass\bin\Debug\StudentClass.pdb
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\StudentClass\obj\Debug\StudentClass.exe
+D:\Git\SoftUni-Homeworks\OOP-Delegates-Events\StudentClass\obj\Debug\StudentClass.pdb
