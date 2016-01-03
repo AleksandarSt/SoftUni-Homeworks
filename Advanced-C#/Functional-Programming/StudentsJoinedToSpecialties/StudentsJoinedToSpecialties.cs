@@ -57,6 +57,7 @@ namespace StudentsJoinedToSpecialties
                 from student in listOfStudents
                 join specialty in listOfSpecialtiesByFacultyNumber
                     on student.FacultyNumber equals specialty.FacNum
+                orderby student.FirstName, student.LastName
                 select new
                 {
                     Name = student.FirstName + " " + student.LastName,
