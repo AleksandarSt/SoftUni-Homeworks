@@ -67,6 +67,7 @@ namespace StudentsJoinedToSpecialties
 
             Console.WriteLine("Result (Joined Students with Specialties)");
             Console.WriteLine("{0,-20} {1,-15} {2,-15}", "Name", "FacNum", "Specialty");
+
             foreach (var item in joinedToSpecialties)
             {
                 Console.WriteLine("{0,-20} {1,-15} {2,-15}", item.Name, item.FacNum, item.Specialty);
