@@ -32,11 +32,42 @@ namespace OfficeStuff
                     );
             }
 
-            Console.WriteLine();
+            var result = companies
+                .GroupBy(company => new { company.CompanyName, company.Product })
+                .Select
+                (
+                    group =>
+                        new
+                        {
+                            Name = group.Key.CompanyName,
+                            Product=group.Key.Product,
+                            Products = group.OrderByDescending(x => x.Amount).ToList()
+                        }
+                )
+                .OrderBy(group => group.Name);
 
-            for (int i = 0; i < numberOfCompanies; i++)
+            //var result=
+            //    from company in companies
+            //    group company by company.CompanyName into g
+            //    group g by company.
+
+            foreach (var group in result)
             {
-                Console.WriteLine(companies[i]);
+                Console.Write("{0}:",group.Name);
+                StringBuilder output = new StringBuilder();
+                foreach (var company in group.Products)
+                {
+
+                    output.Append(" ");
+                    output.Append(company.Product);
+                    output.Append("-");
+                    output.Append(company.Amount);
+                    output.Append(",");
+                    //Console.Write(" {0}-{1},",company.Product,company.Amount);
+                }
+                output.Remove(output.Length - 1, 1);
+                Console.WriteLine(output);
+                output.Clear();
             }
         }
     }
