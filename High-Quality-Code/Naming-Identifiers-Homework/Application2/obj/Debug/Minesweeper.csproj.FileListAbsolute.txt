@@ -1,0 +1,6 @@
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\Application2\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\Application2\bin\Debug\Application2.exe.config
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\Application2\bin\Debug\Application2.exe
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\Application2\bin\Debug\Application2.pdb
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\Application2\obj\Debug\Application2.exe
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\Application2\obj\Debug\Application2.pdb

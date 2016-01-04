@@ -1,0 +1,6 @@
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\ConsoleApplication1\obj\Debug\MatrixMultiplicator.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Naming-Identifiers-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,8 @@
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\bin\Debug\FilterStudentsByPhone.exe.config
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\obj\Debug\FilterStudentsByPhone.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\bin\Debug\FilterStudentsByPhone.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\bin\Debug\FilterStudentsByPhone.pdb
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\bin\Debug\Functional-Programing.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\bin\Debug\Functional-Programing.pdb
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\obj\Debug\FilterStudentsByPhone.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\FilterStudentsByPhone\obj\Debug\FilterStudentsByPhone.pdb

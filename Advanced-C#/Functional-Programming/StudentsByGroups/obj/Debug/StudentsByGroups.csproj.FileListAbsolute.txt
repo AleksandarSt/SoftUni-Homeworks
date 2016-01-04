@@ -1,0 +1,8 @@
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\bin\Debug\StudentsByGroups.exe.config
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\bin\Debug\StudentsByGroups.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\bin\Debug\StudentsByGroups.pdb
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\bin\Debug\Functional-Programing.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\bin\Debug\Functional-Programing.pdb
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\obj\Debug\StudentsByGroups.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\obj\Debug\StudentsByGroups.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\StudentsByGroups\obj\Debug\StudentsByGroups.pdb

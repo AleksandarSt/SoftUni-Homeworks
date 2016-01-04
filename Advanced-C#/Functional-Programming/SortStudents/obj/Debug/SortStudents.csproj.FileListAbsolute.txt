@@ -1,0 +1,8 @@
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\bin\Debug\SortStudents.exe.config
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\bin\Debug\SortStudents.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\bin\Debug\SortStudents.pdb
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\bin\Debug\Functional-Programing.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\bin\Debug\Functional-Programing.pdb
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\obj\Debug\SortStudents.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\obj\Debug\SortStudents.exe
+D:\Git\SoftUni-Homeworks\Advanced-C#\Functional-Programming\SortStudents\obj\Debug\SortStudents.pdb
