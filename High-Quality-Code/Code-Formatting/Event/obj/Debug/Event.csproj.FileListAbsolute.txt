@@ -1,0 +1,4 @@
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Code-Formatting\Event\bin\Debug\Event.exe.config
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Code-Formatting\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Code-Formatting\Event\obj\Debug\Event.Properties.Resources.resources
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Code-Formatting\Event\obj\Debug\Event.csproj.GenerateResource.Cache
