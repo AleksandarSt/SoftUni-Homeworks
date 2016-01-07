@@ -7,7 +7,7 @@
     <ProjectGuid>{6E267DAC-800C-4045-AEFC-D5652D193466}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Event</RootNamespace>
+    <RootNamespace>Formatting</RootNamespace>
     <AssemblyName>Event</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -45,6 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Event.cs" />
+    <Compile Include="MultiDictionary.cs" />
+    <Compile Include="OrderedBag.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
