@@ -123,21 +123,21 @@ namespace OfficeStuff
             //}
         }
     }
+    ////Remove comment and copy to use in Judge
+    //public class Company
+    //{
 
-    public class Company
-    {
+    //    public Company(string companyName, int amount, string product)
+    //    {
+    //        this.CompanyName = companyName;
+    //        this.Amount = amount;
+    //        this.Product = product;
+    //    }
 
-        public Company(string companyName, int amount, string product)
-        {
-            this.CompanyName = companyName;
-            this.Amount = amount;
-            this.Product = product;
-        }
+    //    public string CompanyName { get; set; }
 
-        public string CompanyName { get; set; }
+    //    public int Amount { get; set; }
 
-        public int Amount { get; set; }
-
-        public string Product { get; set; }
-    }
+    //    public string Product { get; set; }
+    //}
 }
