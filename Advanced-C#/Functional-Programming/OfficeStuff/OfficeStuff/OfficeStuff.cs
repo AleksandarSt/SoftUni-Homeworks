@@ -43,6 +43,7 @@ namespace OfficeStuff
             //    )
             //    .OrderBy(group => group.Name);
 
+
             var result =
                 (from company in companies
                  group company by new { company.CompanyName, company.Product }
