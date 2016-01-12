@@ -84,7 +84,11 @@ namespace OfficeStuff
                 //}
                 //output.Remove(output.Length - 1, 1);
 
-                if ((i > 0 && i < result.Count() - 1 && currentCompany != result[i + 1].Name)||i==result.Count()-1)
+                bool conditionOne = (i >= 0 && i < result.Count() - 1 && currentCompany != result[i + 1].Name);
+                bool conditionTwo = (i == result.Count() - 1);
+                //bool conditionThree = i == 0;
+
+                if (conditionOne||conditionTwo)
                 {
                     output.Remove(output.Length - 1, 1);
 
@@ -118,5 +122,22 @@ namespace OfficeStuff
             //    output.Clear();
             //}
         }
+    }
+
+    public class Company
+    {
+
+        public Company(string companyName, int amount, string product)
+        {
+            this.CompanyName = companyName;
+            this.Amount = amount;
+            this.Product = product;
+        }
+
+        public string CompanyName { get; set; }
+
+        public int Amount { get; set; }
+
+        public string Product { get; set; }
     }
 }
