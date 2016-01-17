@@ -1,0 +1,5 @@
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+D:\Git\SoftUni-Homeworks\High-Quality-Code\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb
