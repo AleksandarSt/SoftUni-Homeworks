@@ -1,0 +1,6 @@
+D:\Git\GitHub\ArraysListsStacksQueues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe.config
+D:\Git\GitHub\ArraysListsStacksQueues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
+D:\Git\GitHub\ArraysListsStacksQueues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
+D:\Git\GitHub\ArraysListsStacksQueues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.csprojResolveAssemblyReference.cache
+D:\Git\GitHub\ArraysListsStacksQueues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
+D:\Git\GitHub\ArraysListsStacksQueues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb

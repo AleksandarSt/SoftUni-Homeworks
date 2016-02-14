@@ -1,0 +1,6 @@
+D:\Git\GitHub\ArraysListsStacksQueues\LegoBlocks\bin\Debug\LegoBlocks.exe.config
+D:\Git\GitHub\ArraysListsStacksQueues\LegoBlocks\bin\Debug\LegoBlocks.exe
+D:\Git\GitHub\ArraysListsStacksQueues\LegoBlocks\bin\Debug\LegoBlocks.pdb
+D:\Git\GitHub\ArraysListsStacksQueues\LegoBlocks\obj\Debug\LegoBlocks.csprojResolveAssemblyReference.cache
+D:\Git\GitHub\ArraysListsStacksQueues\LegoBlocks\obj\Debug\LegoBlocks.exe
+D:\Git\GitHub\ArraysListsStacksQueues\LegoBlocks\obj\Debug\LegoBlocks.pdb

@@ -1,0 +1,9 @@
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SelectionSort\bin\Debug\SelectionSort.exe.config
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SelectionSort\bin\Debug\SelectionSort.exe
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SelectionSort\bin\Debug\SelectionSort.pdb
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SelectionSort\obj\Debug\SelectionSort.exe
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SelectionSort\obj\Debug\SelectionSort.pdb
+D:\Git\GitHub\ArraysListsStacksQueues\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\Git\GitHub\ArraysListsStacksQueues\SelectionSort\obj\Debug\SelectionSort.exe
+D:\Git\GitHub\ArraysListsStacksQueues\SelectionSort\obj\Debug\SelectionSort.pdb

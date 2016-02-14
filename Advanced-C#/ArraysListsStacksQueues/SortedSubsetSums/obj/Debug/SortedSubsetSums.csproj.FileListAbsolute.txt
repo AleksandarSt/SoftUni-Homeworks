@@ -1,0 +1,6 @@
+D:\Git\GitHub\ArraysListsStacksQueues\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe.config
+D:\Git\GitHub\ArraysListsStacksQueues\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe
+D:\Git\GitHub\ArraysListsStacksQueues\SortedSubsetSums\bin\Debug\SortedSubsetSums.pdb
+D:\Git\GitHub\ArraysListsStacksQueues\SortedSubsetSums\obj\Debug\SortedSubsetSums.csprojResolveAssemblyReference.cache
+D:\Git\GitHub\ArraysListsStacksQueues\SortedSubsetSums\obj\Debug\SortedSubsetSums.exe
+D:\Git\GitHub\ArraysListsStacksQueues\SortedSubsetSums\obj\Debug\SortedSubsetSums.pdb

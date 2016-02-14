@@ -1,0 +1,9 @@
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe.config
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.pdb
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.csprojResolveAssemblyReference.cache
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.exe
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.pdb
+D:\Git\GitHub\ArraysListsStacksQueues\CategorizeNumbers\bin\Debug\CategorizeNumbers.exe.config
+D:\Git\GitHub\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.exe
+D:\Git\GitHub\ArraysListsStacksQueues\CategorizeNumbers\obj\Debug\CategorizeNumbers.pdb

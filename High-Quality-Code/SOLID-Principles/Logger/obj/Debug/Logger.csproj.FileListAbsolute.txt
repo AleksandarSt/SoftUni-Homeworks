@@ -1,0 +1,2 @@
+D:\Git\SoftUni-Homeworks\High-Quality-Code\SOLID-Principles\Logger\bin\Debug\Logger.exe.config
+D:\Git\SoftUni-Homeworks\High-Quality-Code\SOLID-Principles\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

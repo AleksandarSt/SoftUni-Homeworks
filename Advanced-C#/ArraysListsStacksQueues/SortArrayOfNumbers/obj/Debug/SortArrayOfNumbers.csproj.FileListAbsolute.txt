@@ -1,0 +1,9 @@
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.pdb
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+c:\users\alstoyanov\documents\visual studio 2013\Projects\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb
+D:\Git\GitHub\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+D:\Git\GitHub\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+D:\Git\GitHub\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb
